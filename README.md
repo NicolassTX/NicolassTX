@@ -15,14 +15,6 @@ Tenho um fascinio por tecnologia iniciando minha jornada no universo da programa
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
-
-### 📈 Estatísticas
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NicolassTX&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolassTX&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
