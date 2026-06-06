@@ -3,7 +3,7 @@
 
 
 ### 👨‍💻 Sobre Mim
-Tenho um fascinio por tecnologia iniciando minha jornada no universo da programação. Atualmente, estou desbravando os fundamentos da computação e construindo minha base técnica.
+Tenho um grande interesse por tecnologia iniciando minha jornada no universo da programação. Atualmente, estou desbravando os fundamentos da computação e construindo minha base técnica.
 
 * 🎓 **Educação:** 1º Semestre de Ciência da Computação na **UNICURITIBA**.
 * 🐍 **Main Language:** Python .
